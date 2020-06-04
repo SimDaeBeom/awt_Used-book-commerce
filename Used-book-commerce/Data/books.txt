@@ -1,0 +1,4 @@
+책1,소녀출판사,심대범,2019,20000,Good,1000001,temp1,temp1@gmail.com
+책2,소녀출판사,심대범,2019,20000,Good,1000002,temp2,temp2@gmail.com
+책3,소녀출판사,심대범,2019,20000,Good,1000003,temp3,temp3@gmail.com
+책4,소녀출판사,심대범,2019,20000,Good,1000005,temp,temp@gmail.com
